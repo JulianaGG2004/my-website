@@ -7,3 +7,7 @@ Updates made on master on Github before rebase
 
 The purpose of this is to examples 
 on how to use GitHub together
+
+## Getting Started
+
+To get with this project, just `clone` this repository
