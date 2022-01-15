@@ -5,6 +5,5 @@ Updates made on master on Github before rebase
 
 ## Purpuse
 
-## Repository Purpuse 
-
-This file is just a readme file.
+The purpose of this is to examples 
+on how to use GitHub together
