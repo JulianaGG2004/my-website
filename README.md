@@ -3,8 +3,8 @@
 This is a really awesome website
 Updates made on master on Github before rebase
 
+## Purpuse
+
 ## Repository Purpuse 
 
-This will be a  change that conflicts
-with whatever is on the remote side.
-This was edited locally.
+This file is just a readme file.
